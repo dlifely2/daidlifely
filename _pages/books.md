@@ -2,12 +2,19 @@
 layout: book-shelf
 title: bookshelf
 permalink: /books/
-nav: false
+nav: true
 collection: books
 ---
 
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
+> I’m dyslexic, and I’ve always been painfully aware of my slower-than-average reading speed. When I first learned to read, I mastered a whole set of tricks to pretend I’d read the assigned passage—when in fact, I hadn’t. That was my go-to strategy until I landed in Mr. Doble’s English class.
 >
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
+> Mr. Doble was the walking definition of “strict but fair,” with an extra helping of strict. Each week, he struck a deal with every student:
+>
+> “What book are you reading? What page are you on? How many pages will you read this week?”
+Once you answered, your target was locked in. The next week, you’d sit at his desk, and he’d ask, “Did you read your X pages?” Say yes and you’d be tested. Say no and you’d get a lecture on commitment and the benefits of reading.
+>
+> His method worked for me. The targets were manageable, the reading list was mine to choose, and—for the first time ever—I was actually reading and enjoying it. I’d lock myself in my room for hours, devouring pages.
+>
+> It’s been nearly 20 years since my last progress check with Mr. Doble, and my reading habit has long since slipped away. In 2025, I want it back. My reading speed hasn’t improved, so I’m leaning on Audible this time. The goal: 24 books in 2025—two per month.
 
 ## Books that I am reading, have read, or will read
