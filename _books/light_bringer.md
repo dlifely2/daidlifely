@@ -3,7 +3,7 @@ layout: book-review
 title: Red Rising Series - Light Bringer (Book 6)
 author: 
 cover: #assets/img/book_covers/red_rising.jpg
-olid: OL58926033M
+olid: #OL58926033M
 isbn: 1473646820
 categories: sci-fi
 tags: top-100
