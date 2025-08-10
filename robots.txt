@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://davidlifely.github.io/al-folio/sitemap.xml
+Sitemap: https://davidlifely.github.io/about/sitemap.xml
